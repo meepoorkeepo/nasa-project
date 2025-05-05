@@ -1,4 +1,4 @@
-import Main from './componants/main'
+import Main from './componants/Main'
 import Footer from './componants/Footer'
 import SideBar from './componants/SideBar'
 import { useEffect, useState } from 'react'
