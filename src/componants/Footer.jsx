@@ -6,7 +6,7 @@ export default function Footer(props) {
       <footer>
         <div className="bgGradient"></div>
         <div>
-          <h1>APOD PRODUCT</h1>
+          <h1>Faycel project</h1>
           <h2>{data?.title}</h2>
         </div>
         <button onClick={handeleToggleModal}>
